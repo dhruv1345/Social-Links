@@ -1,7 +1,5 @@
 # Social-Links
 
-Link : dhruvsocials.netlify.app
-
 <hr>
 
 📷 Image :
